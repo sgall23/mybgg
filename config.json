@@ -3,15 +3,14 @@
         "name": "mybgg"
     },
     "boardgamegeek": {
-        "user_name": "YOUR_BGG_USERNAME",
+        "user_name": "Moonkiller23",
         "extra_params": {
-            "own": 1,
-            "exclude_subtype": "boardgameexpansion"
+            "own": 1
         }
     },
     "algolia": {
         "app_id": "YOUR_APP_ID",
-        "api_key_search_only": "YOUR_PUBLIC_API_KEY",
-        "index_name": "YOUR_INDEX_NAME"
+        "api_key_search_only": "1f77b9472084cae60113bfa3b5574b09",
+        "index_name": "Board Games"
     }
 }
