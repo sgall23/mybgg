@@ -5,9 +5,7 @@
     "boardgamegeek": {
         "user_name": "Moonkiller23",
         "extra_params": {
-            "own": 1,
-            "preordered": 1,
-            "want_to_buy": 1
+            "own": 1
         }
     },
     "algolia": {
